@@ -1,10 +1,6 @@
 function search() {
   const searchInputValue = document.getElementById("searchInput").value;
 
-  const config = {
-    token: "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",
-  };
-
   const data = {
     params: {
       q: searchInputValue,
