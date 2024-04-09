@@ -2,7 +2,7 @@ function search() {
   const searchInputValue = document.getElementById("searchInput").value;
 
   const config = {
-    token: "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",
+    token: "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",
   };
 
   const data = {
